@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://dumi:astcmp@cluster0-ied60.mongodb.net/test?retryWrites=true",
+  "jwtSecret": "secret",
+  "githubClientId": "58f1e585a73f3f265732",
+  "githubSecret": "ddbc4d8073cc5d56af3a4d93a14c2b5d71cf0bfb"
+}
